@@ -1,7 +1,7 @@
 ---
-# Myfont
+# HD-Sinar
 
-Short description of Demo Font. Read more about this [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
+Sinar is Reversed contras Display Typeface [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
 
 ## Specimen
 
